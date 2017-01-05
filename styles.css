@@ -1,0 +1,30 @@
+#hs-name{
+    text-align: center;
+    font-size: 50px;
+    border-bottom: solid black 1px;
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#navigation {
+    list-style-type: none;
+    text-align: center;
+    font-size: 18px;
+    border-style: solid;
+    width: 700px;
+    margin: 0 auto;
+}
+
+#navigation li {
+    display: inline-block;
+    margin-right: 25px;
+}
+
+#eagle {
+    height: 100px;
+    border-style: solid;
+    border-radius: 30%;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
