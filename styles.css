@@ -1,8 +1,8 @@
 #hs-name{
     text-align: center;
-    font-size: 50px;
+    font-size: 300%;
     border-bottom: solid black 1px;
-    width: 900px;
+    width: 55%;
     margin: 0 auto;
     color: Green;
 }
@@ -10,9 +10,9 @@
 #navigation {
     list-style-type: none;
     text-align: center;
-    font-size: 20px;
+    font-size: 125%;
     border-style: solid;
-    border-width: 1px;
+    border-width: thin;
     width: 700px;
     margin: 0 auto;
 }
@@ -24,57 +24,58 @@
 
 #eagle {
     position: absolute;
-    top: 15px;
-    width: 206px;
+    top: 1%;
+    left: 4%;
+    width: 13%;
 }
 
 #search {
     position: absolute;
-    right: 148px;
-    width: 160px;
-    top: 68px;
-    height: 19px;
+    right: 22.8%;
+    width: 9%;
+    top: 13.1%;
+    height: 2.5%;
 }
 
 #main-pictures {
     border-style: solid;
-    border-width: 1px;
+    border-width: thin;
     margin: 0 auto;
-    margin-top: 50px;
-    top: 150px;
-    width: 800px;
+    margin-top: 3.1%;
+    width: 50%;
     height: 300px;
 }
 
 #column {
-    width: 900px;
-    height: 900px;
+    width: 57%;
+    height: 400px;
     border-style: solid;
     margin: 0 auto;
-    margin-top: 10px;
+    margin-top: 1%;
 }
 
 #announcements {
     font-weight: bold;
-    border-top : solid red 2px;
-    padding: 8px;
+    border-top : solid red thin;
+    padding: .8%;
+    padding-left: .5%;
     color: Blue;
-    width: 140px;
+    width: 20%;
     position: absolute;
-    left: 300px;
-    font-size: 18px;
-    margin-top: 30px;
+    left: 22%;
+    font-size: 115%;
+    margin-top: 2%;
 }
 
 #news {
     font-weight: bold;
-    border-top : solid red 2px;
-    padding-top: 8px;
-    padding-left: 8px;
+    border-top : solid red thin;
+    padding-top: .8%;
+    padding-left: .5%;
     color: Blue;
-    width: 220px;
+    width: 20%;
     position: absolute;
-    right: 260px;
-    font-size: 18px;
-    margin-top: 30px;
+    right: 22%;
+    font-size: 115%;
+    margin-top: 2%;
 }
